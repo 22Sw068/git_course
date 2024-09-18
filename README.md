@@ -1,4 +1,4 @@
 # git_course
-This is my ifist Repository
+This is my first Repository
 <br>
 Author - Muhammad Khan.
